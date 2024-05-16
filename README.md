@@ -1,1 +1,1 @@
-# basicneuralnet_vs_randomforrest
+# bank note neural network classifier with random forrest as well
